@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AddressFinder</string>
+    <string name="button1">Find location</string>
+    <string name="find_location">Find location</string>
+    <string name="type_the_address_you_want_to_see_in_the_map">Type the address you want to see in the maps</string>
+    <string name="claim">This app is brought to you by Phantom Apps (created by Anant Gwari)</string>
+</resources>
